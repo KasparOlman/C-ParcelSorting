@@ -1,0 +1,5 @@
+C:\Users\kaspa\OneDrive\Desktop\ParcelSortingTARge22-master\ParcelSorting\boxShortingLine.test\obj\Debug\net6.0\boxShortingLine.test.csproj.AssemblyReference.cache
+C:\Users\kaspa\OneDrive\Desktop\ParcelSortingTARge22-master\ParcelSorting\boxShortingLine.test\obj\Debug\net6.0\boxShortingLine.test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaspa\OneDrive\Desktop\ParcelSortingTARge22-master\ParcelSorting\boxShortingLine.test\obj\Debug\net6.0\boxShortingLine.test.AssemblyInfoInputs.cache
+C:\Users\kaspa\OneDrive\Desktop\ParcelSortingTARge22-master\ParcelSorting\boxShortingLine.test\obj\Debug\net6.0\boxShortingLine.test.AssemblyInfo.cs
+C:\Users\kaspa\OneDrive\Desktop\ParcelSortingTARge22-master\ParcelSorting\boxShortingLine.test\obj\Debug\net6.0\boxShortingLine.test.csproj.CoreCompileInputs.cache
